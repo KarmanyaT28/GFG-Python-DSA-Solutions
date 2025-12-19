@@ -13,7 +13,7 @@ Constraints:
 1 ≤ n ≤ 105
 
 '''
-
+import math
 
 def digitsInFactorial(n):
     if n <=1:
